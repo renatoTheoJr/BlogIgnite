@@ -1,1 +1,11 @@
-// TODO
+.container{
+    width: 100%;
+    height: 105px;
+  
+    display: flex;
+    justify-content: center;
+    img{
+        margin-right: 370px;
+        margin-top: 40px;
+    }
+}
